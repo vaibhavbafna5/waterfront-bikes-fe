@@ -32,7 +32,7 @@ function App() {
             <div>
               {/* <h5>391 West Street, New York, New York 10014</h5>
               <h5>(212) 414-2453</h5> */}
-              391 West Street, New York, New York
+              <a style={{textDecoration: "none"}} href="https://www.google.com/maps/place/Waterfront+Bicycle+Shop/@40.7328455,-74.0122005,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259ec5cd405db:0xf620bd097728daeb!8m2!3d40.7328425!4d-74.0100291">391 West Street, New York, New York</a>
               <br></br>
               (212) 414-2453
             </div>
